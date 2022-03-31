@@ -1,0 +1,89 @@
+{
+    "ropa": [
+        {
+            "id":0,
+            "name": "Remera",
+            "precio": 1700,
+            "color": [
+                {
+                    "colorId":"0",
+                    "colorStyle":"Blanco"
+                },
+                {
+                    "colorId":"1",
+                    "colorStyle":"Gris"
+                },
+                {
+                    "colorId":"2",
+                    "colorStyle":"Negro"
+                }
+            ]
+        },
+        {
+            "id":1,
+            "name": "Buzo",
+            "precio": 3000,
+            "color": [
+                {
+                    "colorId":"0",
+                    "colorStyle":"Blanco"
+                },
+                {
+                    "colorId":"1",
+                    "colorStyle":"Gris"
+                },
+                {
+                    "colorId":"2",
+                    "colorStyle":"Negro"
+                }
+            ]
+        }
+    ],
+    "accesorios": [
+        {
+            "id":0,
+            "name": "Mates",
+            "precio": 1300,
+            "color": [
+                {
+                    "colorId":"0",
+                    "colorStyle":"Marron"
+                },
+                {
+                    "colorId":"1",
+                    "colorStyle":"Negro"
+                }
+            ]
+        },
+        {
+            "id":1,
+            "name": "Llaveros",
+            "precio": 700,
+            "color": [
+                {
+                    "colorId":"0",
+                    "colorStyle":"Transparente"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "name": "Riñonera",
+            "precio": 2500,
+            "color": [
+                {
+                    "colorId":"0",
+                    "colorStyle":"Blanco"
+                },
+                {
+                    "colorId":"1",
+                    "colorStyle":"Negro"
+                },
+                {
+                    "colorId":"2",
+                    "colorStyle":"Azul"
+                }
+            ]
+        }
+    ]
+}
